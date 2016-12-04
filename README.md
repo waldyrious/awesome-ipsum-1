@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This list has been [deprecated](https://github.com/templeman/awesome-ipsum/issues/12)
+in favor of [templeman/awesome-ipsum](https://github.com/templeman/awesome-ipsum).
+All the entries have been merged there.
+
 # Awesome Ipsum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of lorem ipsum generators and tools.
